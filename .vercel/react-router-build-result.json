@@ -77,9 +77,9 @@
     }
   },
   "reactRouterConfig": {
-    "appDirectory": "/Users/our-rahmaan/conductor/repo/kaizen/boston/app",
+    "appDirectory": "C:/Users/Abdul/OneDrive/Desktop/gradr/app",
     "basename": "/",
-    "buildDirectory": "/Users/our-rahmaan/conductor/repo/kaizen/boston/build",
+    "buildDirectory": "C:/Users/Abdul/OneDrive/Desktop/gradr/build",
     "future": {
       "unstable_middleware": false,
       "unstable_optimizeDeps": false,
